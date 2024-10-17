@@ -1,0 +1,11 @@
+@url = https://3306-tbsrick-gamessw2-qekj0kipdng.ws-us116.gitpod.io
+
+Get {{url}}/plataformas
+
+
+POST {{url}}/plataformas
+Content-Type/json
+
+{
+    "nome" : "PC"
+}
